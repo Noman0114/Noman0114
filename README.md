@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noman0114
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Project deploying
 - 📫 How to reach me na94593170@gmail.com
 
