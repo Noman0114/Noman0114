@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noman0114
-- 👀 I’m interested in Front End Job
+- 👀 I’m interested in FullStack Web Developer Job
 - 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me numanahmad0114@gmail.com
